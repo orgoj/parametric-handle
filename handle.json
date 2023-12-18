@@ -1,0 +1,51 @@
+{
+    "parameterSets": {
+        "posuvne dvere": {
+            "$fa": "5",
+            "$fs": "1",
+            "a_draft": "3",
+            "a_flare": "10",
+            "d_counter": "10",
+            "d_hole": "5.3",
+            "d_mouse": "0",
+            "h_base": "20",
+            "h_counter": "5",
+            "h_hole": "130",
+            "h_internal": "25",
+            "h_layer": "0.4",
+            "h_slot_depth": "0",
+            "h_slot_width": "0",
+            "h_thick": "15",
+            "h_wide": "25",
+            "hex_height": "0",
+            "hex_width": "0",
+            "r_fillet_ext": "3",
+            "r_fillet_int": "6",
+            "r_internal": "16"
+        },
+        "posuvne dvere hex": {
+            "$fa": "5",
+            "$fs": "1",
+            "a_draft": "3",
+            "a_flare": "10",
+            "d_counter": "10",
+            "d_hole": "5.3",
+            "d_mouse": "0",
+            "h_base": "20",
+            "h_counter": "9",
+            "h_hole": "130",
+            "h_internal": "25",
+            "h_layer": "0.4",
+            "h_slot_depth": "0",
+            "h_slot_width": "0",
+            "h_thick": "15",
+            "h_wide": "25",
+            "hex_height": "4",
+            "hex_width": "9.3",
+            "r_fillet_ext": "3",
+            "r_fillet_int": "6",
+            "r_internal": "16"
+        }
+    },
+    "fileFormatVersion": "1"
+}
